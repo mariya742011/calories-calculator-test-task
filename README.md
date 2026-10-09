@@ -1,2 +1,2 @@
 # calories-calculator-test-task
-UX/UI Design Test Task — Calories Calculator
+UX/UI design test task for a Calories Calculator mobile app, including branding, design system, key screens, and interactive prototype.
