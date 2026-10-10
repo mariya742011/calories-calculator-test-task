@@ -20,12 +20,14 @@ The project focuses on creating a clear, intuitive, and consistent user experien
 Explored the product scope, user needs, core use cases, and MVP requirements to establish a foundation for the design decisions.
 
 **Deliverable:** [View Product Discovery & UX Research](https://claude.ai/artifact/G9ktEQfC5sWbWEaK2mHcfu#da0e1bdb-d9fe)
+[View Product Discovery & UX Research PDF](https://drive.google.com/file/d/1Hy1Q-T_n_-w2RNE39RTJjIupqnwAx7YP/view?usp=sharing)
 
 ### 2. UX Architecture
 
 Defined the information architecture, app navigation, key screens, and primary user flows to support the core product functionality.
 
 **Deliverable:** [View UX Architecture](https://claude.ai/artifact/Cuu4NcbCKY2cjXHpSSrkcV#2055ffee-b15b)
+[View UX Architecture PDF](https://drive.google.com/file/d/1eEcquBoIIVcL8qIapDeh8WgVp-0b4ySW/view?usp=sharing)
 
 ### 3. Wireframes
 
