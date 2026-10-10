@@ -81,7 +81,7 @@ Users can explore recipes, review their nutritional information, and find option
 
 ## Video Presentation
 
-**Deliverable:** [Watch the Project Presentation](https://drive.google.com/file/d/1lQatHxD4Gb8PDbiPKvrglhmMd1337KcW/view?usp=sharing))
+**Deliverable:** [Watch the Project Presentation](https://drive.google.com/file/d/1lQatHxD4Gb8PDbiPKvrglhmMd1337KcW/view?usp=sharing)
 
 
 This project was created as part of the UX/UI Trainee Designer test task for jito.
