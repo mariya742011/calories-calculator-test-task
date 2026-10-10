@@ -27,23 +27,23 @@ Defined the information architecture, app navigation, key screens, and primary u
 
 **Deliverable:** [View UX Architecture](https://claude.ai/artifact/Cuu4NcbCKY2cjXHpSSrkcV#2055ffee-b15b)
 
-### 3. Branding & Stylescape
+### 3. Wireframes
+
+Created wireframes for the key screens to define layout, information hierarchy, navigation, and interactions before developing the final visual design.
+
+**Deliverable:**[ ](https://www.figma.com/design/hXCRSZHAHpxIG78tHcvJZv/Calories-Calculator-Test-Task?node-id=0-1&t=g5twoGdCvkucrUX0-1)[View Wireframes in Figma](https://www.figma.com/design/hXCRSZHAHpxIG78tHcvJZv/Calories-Calculator-Test-Task?node-id=0-1&t=g5twoGdCvkucrUX0-1)
+
+### 4. Branding & Stylescape
 
 Explored the visual direction and established the aesthetic foundation for the application, including the color palette, typography direction, and overall visual mood.
 
 **Selected direction:** [View Selected Stylescape — Direction C](https://github.com/mariya742011/calories-calculator-test-task/blob/main/stylescape-direction-c.png)
 
-### 4. Design System
+### 5. Design System
 
 Developed a reusable design system to maintain visual consistency and support efficient UI design. It includes color and typography styles, spacing variables, reusable components, and component states.
 
 **Deliverable:** [View Design System in Figma](https://www.figma.com/design/hXCRSZHAHpxIG78tHcvJZv/Calories-Calculator-Test-Task?node-id=113-1056&t=g5twoGdCvkucrUX0-1)
-
-### 5. Wireframes
-
-Created wireframes for the key screens to define layout, information hierarchy, navigation, and interactions before developing the final visual design.
-
-**Deliverable:**[ ](https://www.figma.com/design/hXCRSZHAHpxIG78tHcvJZv/Calories-Calculator-Test-Task?node-id=0-1&t=g5twoGdCvkucrUX0-1)[View Wireframes in Figma](https://www.figma.com/design/hXCRSZHAHpxIG78tHcvJZv/Calories-Calculator-Test-Task?node-id=0-1&t=g5twoGdCvkucrUX0-1)
 
 ### 6. High-Fidelity UI Design
 
