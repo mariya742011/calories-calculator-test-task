@@ -31,7 +31,7 @@ Defined the information architecture, app navigation, key screens, and primary u
 
 Explored the visual direction and established the aesthetic foundation for the application, including the color palette, typography direction, and overall visual mood.
 
-**Selected direction:** Direction C
+**Selected direction:** [Direction C](https://github.com/mariya742011/calories-calculator-test-task/blob/main/stylescape-direction-c.png)
 
 ### 4. Design System
 
